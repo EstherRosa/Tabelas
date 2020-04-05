@@ -36,10 +36,10 @@
 		<tr>
 		     <th> Ano  </th>
 		     <th> Local </th>
-		     <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/ouro.svg" alt="Ouro" /> </th>
-		     <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/prata.svg" ALT= "Prata" /> </th>
-		     <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/bronze.svg" ALT="Bronze" /> </th>
-		     <th> <img src=" C:\Users\Ester\Desktop\Esther\Project_Web\img2/total.svg" ALT="total" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/ouro.svg" alt="Ouro" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/prata.svg" ALT= "Prata" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/bronze.svg" ALT="Bronze" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/total.svg" ALT="total" /> </th>
 		     <th> Colocação </th>
 		</tr>
 			
@@ -312,10 +312,10 @@
                 <tr> 
                     <th>Edição</th>
                     <th>Atletas</th>
-                    <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/ouro.svg" alt="Ouro" /> </th>
-                    <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/prata.svg" ALT= "Prata" /> </th>
-                    <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/bronze.svg" ALT="Bronze" /> </th>
-                    <th> <img src=" C:\Users\Ester\Desktop\Esther\Project_Web\img2/total.svg" ALT="total" /> </th>
+                   <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/ouro.svg" alt="Ouro" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/prata.svg" ALT= "Prata" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/bronze.svg" ALT="Bronze" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/total.svg" ALT="total" /> </th>
                     <th>Pos.</th>
                 </tr>
             </thead>
@@ -573,10 +573,10 @@
                 <tr> 
                     <th>Edição</th>
                     <th>Atletas</th>
-                    <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/ouro.svg" alt="Ouro" /> </th>
-					<th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/prata.svg" ALT= "Prata" /> </th>
-					<th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/bronze.svg" ALT="Bronze" /> </th>
-                    <th> <img src=" C:\Users\Ester\Desktop\Esther\Project_Web\img2/total.svg" ALT="total" /> </th>
+                    <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/ouro.svg" alt="Ouro" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/prata.svg" ALT= "Prata" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/bronze.svg" ALT="Bronze" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/total.svg" ALT="total" /> </th>
                     <th>Pos.</th>
                 </tr>
         
@@ -683,10 +683,10 @@
             <thead>
                 <tr> 
                     <th>Modalidade</th>
-                    <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/ouro.svg" alt="Ouro" /> </th>
-					<th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/prata.svg" ALT= "Prata" /> </th>
-					<th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/bronze.svg" ALT="Bronze" /> </th>
-                    <th> <img src=" C:\Users\Ester\Desktop\Esther\Project_Web\img2/total.svg" ALT="total" /> </th>
+                    <<th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/ouro.svg" alt="Ouro" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/prata.svg" ALT= "Prata" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/bronze.svg" ALT="Bronze" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/total.svg" ALT="total" /> </th>
                     <th>Posição</th>
                 </tr>
             </thead>
@@ -836,14 +836,14 @@
                     <th colspan="4">Mulheres</th>
                 </tr>
                 <tr>
-                    <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/ouro.svg" alt="Ouro" /> </th>
-                    <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/prata.svg" ALT= "Prata" /> </th>
-                    <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/bronze.svg" ALT="Bronze" /> </th>
-                    <th> <img src=" C:\Users\Ester\Desktop\Esther\Project_Web\img2/total.svg" ALT="total" /> </th>
-                    <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/ouro.svg" alt="Ouro" /> </th>
-                    <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/prata.svg" ALT= "Prata" /> </th>
-                    <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/bronze.svg" ALT="Bronze" /> </th>
-                    <th> <img src=" C:\Users\Ester\Desktop\Esther\Project_Web\img2/total.svg" ALT="total" /> </th>
+                     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/ouro.svg" alt="Ouro" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/prata.svg" ALT= "Prata" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/bronze.svg" ALT="Bronze" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/total.svg" ALT="total" /> </th>
+                     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/ouro.svg" alt="Ouro" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/prata.svg" ALT= "Prata" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/bronze.svg" ALT="Bronze" /> </th>
+		     <th> <img src="C:/Users/Ester/Desktop/Esther/Project_Web/img2/total.svg" ALT="total" /> </th>
             </thead>
             <tbody>
                 <tr>
