@@ -1,3 +1,6 @@
+
+
+ 
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -28,29 +31,28 @@
 
         <!-- Escreva aqui o código HTML da tabela (lista_medalhas.txt) -->
 		
-		<table>
-			<thead>
-				<tr>
-					<th> Ano  </th>
-					<th> Local </th>
-					<th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/ouro.svg" alt="Ouro" /> </th>
-					<th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/prata.svg" ALT= "Prata" /> </th>
-					<th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/bronze.svg" ALT="Bronze" /> </th>
-					<th> <img src=" C:\Users\Ester\Desktop\Esther\Project_Web\img2/total.svg" ALT="total" /> </th>
-					<th> Colocação </th>
-				</tr>
+<table>
+	<thead>
+		<tr>
+		     <th> Ano  </th>
+		     <th> Local </th>
+		     <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/ouro.svg" alt="Ouro" /> </th>
+		     <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/prata.svg" ALT= "Prata" /> </th>
+		     <th> <img src="C:\Users\Ester\Desktop\Esther\Project_Web\img2/bronze.svg" ALT="Bronze" /> </th>
+		     <th> <img src=" C:\Users\Ester\Desktop\Esther\Project_Web\img2/total.svg" ALT="total" /> </th>
+		     <th> Colocação </th>
+		</tr>
 			
-			</thead>
-			
-			<tbody>
-				<tr>
-					<td> 2016</td>
-					<td>  Rio de Janeiro  </td>
-					<td> 7 </td>
+	</thead>	
+	<tbody>
+		<tr>
+		    <td> 2016</td>
+		    <td>  Rio de Janeiro  </td>
+		    <td> 7 </td>
                     <td> 6 </td>
                     <td> 6 </td>
-					<td> 19 </td>
-					<td> 13° </td>
+		    <td> 19 </td>
+		    <td> 13° </td>
 					
                 </tr>
                 
@@ -121,13 +123,13 @@
                     <td>24º</td>
                 </tr>
                 <tr>
-                        <td>1984</td>
-                        <td>Los Angeles</td>
-                        <td>1</td>
-                        <td>5</td>
-                        <td>2</td>
-                        <td>8</td>
-                        <td>19º</td>
+                    <td>1984</td>
+                    <td>Los Angeles</td>
+                    <td>1</td>
+                    <td>5</td>
+                    <td>2</td>
+                    <td>8</td>
+                    <td>19º</td>
                 </tr>
                 <tr>
                     <td>1980</td>
@@ -303,8 +305,8 @@
 
                     <p>NP - Não Participou</p>
                     <p>SC - Sem Colocação</p>
-			</tbody>
-		</table>
+	</tbody>
+  </table>
 
         <h2 id="medalhas-jogos-verao">Medalhas nos Jogos de Verão</h2>
 
@@ -340,8 +342,8 @@
                     <td>-</td>
                 </tr>
                 <tr>
-                <td>1928 Amsterdã</td>
-                <td colspan="6">Não Competiu</td>
+                    <td>1928 Amsterdã</td>
+                    <td colspan="6">Não Competiu</td>
                 </tr>
                 <tr>
                     <td>1932 Los Angeles</td>
@@ -998,9 +1000,8 @@
                     <td>14</td>
                     <td>28</td>
                 </tr>
-                </tbody>
-            
-        </table>
+          </tbody>    
+    </table>
 
     </main>
 
